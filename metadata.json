@@ -1,0 +1,6 @@
+{
+  "name": "Lịch Học Lớp 7",
+  "description": "Phần mềm lên lịch học tập, quản lý bài tập về nhà và thông báo nhắc nhở thân thiện dành cho học sinh lớp 7.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
